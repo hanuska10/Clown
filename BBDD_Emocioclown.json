@@ -1,0 +1,297 @@
+[{
+  "_id": {
+    "$oid": "5f78f089534368eb0916e13c"
+  },
+  "name": "django_migrations",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 21
+  },
+  "fields": {
+    "app": {
+      "type_code": "string"
+    },
+    "applied": {
+      "type_code": "date"
+    },
+    "id": {
+      "type_code": "int32"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f089534368eb0916e171"
+  },
+  "name": "django_content_type",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 14
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08a534368eb0916e1ca"
+  },
+  "name": "auth_permission",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 56
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08a534368eb0916e20d"
+  },
+  "name": "auth_group",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    },
+    "name": {
+      "type_code": "string"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08a534368eb0916e23e"
+  },
+  "name": "auth_group_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08a534368eb0916e27f"
+  },
+  "name": "auth_user",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 2
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08b534368eb0916e2af"
+  },
+  "name": "auth_user_groups",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08b534368eb0916e2df"
+  },
+  "name": "auth_user_user_permissions",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 0
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08c534368eb0916e42c"
+  },
+  "name": "django_admin_log",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 69
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08e534368eb0916e5fd"
+  },
+  "name": "emocioApp_blog",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 5
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08e534368eb0916e646"
+  },
+  "name": "emocioApp_campamento",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 4
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08e534368eb0916e677"
+  },
+  "name": "emocioApp_datos_contacto",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 1
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08f534368eb0916e6a5"
+  },
+  "name": "emocioApp_evento",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 5
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08f534368eb0916e6d9"
+  },
+  "name": "emocioApp_galeria",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 3
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08f534368eb0916e707"
+  },
+  "name": "emocioApp_info",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 3
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08f534368eb0916e737"
+  },
+  "name": "emocioApp_opiniones",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 4
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f08f534368eb0916e767"
+  },
+  "name": "emocioApp_taller",
+  "auto": {
+    "field_names": [
+      "id"
+    ],
+    "seq": 4
+  },
+  "fields": {
+    "id": {
+      "type_code": "int32"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "5f78f090534368eb0916e7ad"
+  },
+  "name": "django_session",
+  "fields": {}
+}]
